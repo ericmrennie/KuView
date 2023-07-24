@@ -15,6 +15,6 @@ async function connectToDb() {
   }
 }
 
-//hello
+//hello there
 
 module.exports = connectToDb;
